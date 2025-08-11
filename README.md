@@ -20,7 +20,6 @@ The project uses PV power generation data from `PVGen.csv`:
 - **Sampling**: Subset of the first 190,000 readings is used for training/testing.
 - **Preprocessing**: Date extraction, train/test splitting, normalization.
 
-> ⚠️ Dataset is not included in this repo. Place your `PVGen.csv` in the working directory before running the notebook.
 
 ## 🛠 Installation
 Install dependencies:
